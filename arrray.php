@@ -11,7 +11,7 @@
 <body>
     <table style="width: 100%;">
         <tr>
-            <th>First Name</th>
+            <th>First Name :</th>
             <th>last Name</th>
             <th>Age</th>
             <th>salary</th>
